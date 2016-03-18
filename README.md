@@ -1,5 +1,5 @@
 
-Simple script that generates JSON files for HTTP errors that can be used by NGINX to return JSON instead of HTML. Heavily inspred from https://nimblea.pe/monkey-business/2015/03/26/replying-with-json-errors-from-your-nginx-fronted-json-api/
+Simple solution to have NGINX return errors in JSON format instead of HTML. Heavily inspired from https://nimblea.pe/monkey-business/2015/03/26/replying-with-json-errors-from-your-nginx-fronted-json-api/
 
 This repo contains one json files per http error, with the following schema:
 ```json
