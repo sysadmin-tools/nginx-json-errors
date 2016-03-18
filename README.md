@@ -19,8 +19,8 @@ npm run
 
 # Usage
 
-- Copy the content of the nginx-errors in a folder accessible by NGINX
-- Add the following config snippet in your server NGINX config (and update the path !!):
+- Copy the nginx-errors folder in a place accessible by NGINX
+- Adapt the below config snippet to your needs and copy it in the NGINX server directive.
 ```
     error_page 511 /nginx-errors/511.json;
     error_page 507 /nginx-errors/507.json;
@@ -60,7 +60,7 @@ npm run
 
     location ^~ /nginx-errors/ {
         internal;
-        root   <REPLACE BY PATH TO A FOLDER CONTAINING THE ERROR FILES>;
+        root   <REPLACE BY PATH TO A THE PARENT FOLDER OF THE COPIED NGINX-FOLDER>;
     }
 ```
 
