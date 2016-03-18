@@ -1,0 +1,22 @@
+{
+  "name": "nginx-json-errors",
+  "version": "1.0.0",
+  "description": "Generates files and config for nginx to return errors in json format",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "nginx",
+    "json",
+    "http",
+    "errors",
+    "error",
+    "codes"
+  ],
+  "author": "Didier Colens",
+  "license": "MIT",
+  "dependencies": {
+    "know-your-http-well": "^0.2.0",
+    "rimraf": "^2.5.2"
+  }
+}

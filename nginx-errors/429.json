@@ -1,0 +1,1 @@
+{"message":"Too Many Requests: indicates that the user has sent too many requests in a given amount of time (\"rate limiting\").","link":"http://tools.ietf.org/html/rfc6585#section-4","code":"429"}
