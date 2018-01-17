@@ -1,6 +1,6 @@
 {
   "name": "nginx-json-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates files and config for nginx to return errors in json format",
   "main": "index.js",
   "scripts": {
