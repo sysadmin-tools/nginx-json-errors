@@ -1,1 +1,1 @@
-{"message":"Gone: indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent.","link":"http://tools.ietf.org/html/rfc7231#section-6.5.9","code":"410"}
+{"message":"Gone: indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent.","link":"https://tools.ietf.org/html/rfc7231#section-6.5.9","code":"410"}

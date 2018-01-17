@@ -1,1 +1,1 @@
-{"message":"Gateway Time-out: indicates that the server, while acting as a gateway or proxy, did not receive a timely response from an upstream server it needed to access in order to complete the request.","link":"http://tools.ietf.org/html/rfc7231#section-6.6.5","code":"504"}
+{"message":"Gateway Time-out: indicates that the server, while acting as a gateway or proxy, did not receive a timely response from an upstream server it needed to access in order to complete the request.","link":"https://tools.ietf.org/html/rfc7231#section-6.6.5","code":"504"}

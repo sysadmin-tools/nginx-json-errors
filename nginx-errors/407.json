@@ -1,1 +1,1 @@
-{"message":"Proxy Authentication Required: is similar to 401 (Unauthorized), but indicates that the client needs to authenticate itself in order to use a proxy.","link":"http://tools.ietf.org/html/rfc7231#section-6.3.2","code":"407"}
+{"message":"Proxy Authentication Required: is similar to 401 (Unauthorized), but indicates that the client needs to authenticate itself in order to use a proxy.","link":"https://tools.ietf.org/html/rfc7235#section-3.2","code":"407"}

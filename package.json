@@ -4,6 +4,7 @@
   "description": "Generates files and config for nginx to return errors in json format",
   "main": "index.js",
   "scripts": {
+    "build": "node index.js"
   },
   "keywords": [
     "nginx",
@@ -16,7 +17,7 @@
   "author": "Didier Colens",
   "license": "MIT",
   "dependencies": {
-    "know-your-http-well": "^0.2.0",
-    "rimraf": "^2.5.2"
+    "know-your-http-well": "^0.5.0",
+    "rimraf": "^2.6.2"
   }
 }

@@ -1,1 +1,1 @@
-{"message":"Bad Gateway: indicates that the server, while acting as a gateway or proxy, received an invalid response from an inbound server it accessed while attempting to fulfill the request.","link":"http://tools.ietf.org/html/rfc7231#section-6.6.3","code":"502"}
+{"message":"Bad Gateway: indicates that the server, while acting as a gateway or proxy, received an invalid response from an inbound server it accessed while attempting to fulfill the request.","link":"https://tools.ietf.org/html/rfc7231#section-6.6.3","code":"502"}

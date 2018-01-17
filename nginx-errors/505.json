@@ -1,1 +1,1 @@
-{"message":"HTTP Version Not Supported: indicates that the server does not support, or refuses to support, the protocol version that was used in the request message.","link":"http://tools.ietf.org/html/rfc7231#section-6.6.6","code":"505"}
+{"message":"HTTP Version Not Supported: indicates that the server does not support, or refuses to support, the protocol version that was used in the request message.","link":"https://tools.ietf.org/html/rfc7231#section-6.6.6","code":"505"}

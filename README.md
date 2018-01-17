@@ -13,7 +13,7 @@ This repo contains one json files per http error, with the following schema:
 Those files can be re-generated as follow (assuming you have nodejs installed):
 ```shell
 npm install
-npm run
+npm run build
 ```
 (`npm install` should be run once only.)
 
