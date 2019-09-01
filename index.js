@@ -19,9 +19,9 @@ rimraf(path.join(nginxFolder, '*'), function(e) {
 	})
 	.forEach(function(item) {
 		var e = {
-			message: item.phrase + ': ' + item.description.slice(1,-1),
-			link: item.spec_href,
-			code: item.code
+			code: item.code,
+			reason: item.phrase + ': ' + item.description.slice(1,-1)
+			//link: item.spec_href,
 		};
 		nginxConfig = '\terror_page ' + item.code + ' /nginx-errors/' + item.code + '.json;\n' + nginxConfig;
 
