@@ -1,1 +1,1 @@
-{"code":"504","reason":"Gateway Time-out: indicates that the server, while acting as a gateway or proxy, did not receive a timely response from an upstream server it needed to access in order to complete the request."}
+{"error":{"code":504,"reason":"Gateway Time-out: indicates that the server, while acting as a gateway or proxy, did not receive a timely response from an upstream server it needed to access in order to complete the request."}}

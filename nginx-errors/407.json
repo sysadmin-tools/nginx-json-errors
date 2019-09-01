@@ -1,1 +1,1 @@
-{"code":"407","reason":"Proxy Authentication Required: is similar to 401 (Unauthorized), but indicates that the client needs to authenticate itself in order to use a proxy."}
+{"error":{"code":407,"reason":"Proxy Authentication Required: is similar to 401 (Unauthorized), but indicates that the client needs to authenticate itself in order to use a proxy."}}

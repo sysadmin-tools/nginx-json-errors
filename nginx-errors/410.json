@@ -1,1 +1,1 @@
-{"code":"410","reason":"Gone: indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent."}
+{"error":{"code":410,"reason":"Gone: indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent."}}

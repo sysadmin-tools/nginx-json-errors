@@ -1,1 +1,1 @@
-{"code":"426","reason":"Upgrade Required: indicates that the server refuses to perform the request using the current protocol but might be willing to do so after the client upgrades to a different protocol."}
+{"error":{"code":426,"reason":"Upgrade Required: indicates that the server refuses to perform the request using the current protocol but might be willing to do so after the client upgrades to a different protocol."}}

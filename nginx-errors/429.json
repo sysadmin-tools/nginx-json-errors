@@ -1,1 +1,1 @@
-{"code":"429","reason":"Too Many Requests: indicates that the user has sent too many requests in a given amount of time (\"rate limiting\")."}
+{"error":{"code":429,"reason":"Too Many Requests: indicates that the user has sent too many requests in a given amount of time (\"rate limiting\")."}}

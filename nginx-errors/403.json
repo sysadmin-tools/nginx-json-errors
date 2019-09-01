@@ -1,1 +1,6 @@
-{"code":"403","reason":"Forbidden: indicates that the server understood the request but refuses to authorize it."}
+{
+  "error": {
+    "code": 403,
+    "reason": "Forbidden: indicates that the server understood the request but refuses to authorize it."
+  }
+}

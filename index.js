@@ -19,10 +19,12 @@ rimraf(path.join(nginxFolder, '*'), function(e) {
 	})
 	.forEach(function(item) {
 		var e = {
-			code: item.code,
-			reason: item.phrase + ': ' + item.description.slice(1,-1)
-			//link: item.spec_href,
-		};
+			error: {
+			    code: item.code * 1, //convert to int
+                reason: item.phrase + ': ' + item.description.slice(1,-1)
+                //link: item.spec_href,
+            }
+        };
 		nginxConfig = '\terror_page ' + item.code + ' /nginx-errors/' + item.code + '.json;\n' + nginxConfig;
 
 		fs.writeFileSync(path.join(nginxFolder, item.code + '.json'), JSON.stringify(e), 'utf8');
