@@ -1,1 +1,1 @@
-{"message":"Network Authentication Required: indicates that the client needs to authenticate to gain network access.","link":"https://tools.ietf.org/html/rfc6585#section-6","code":"511"}
+{"code":"511","reason":"Network Authentication Required: indicates that the client needs to authenticate to gain network access."}

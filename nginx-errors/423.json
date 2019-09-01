@@ -1,1 +1,1 @@
-{"message":"Locked: means the source or destination resource of a method is locked.","link":"https://tools.ietf.org/html/rfc2518#section-10.4","code":"423"}
+{"code":"423","reason":"Locked: means the source or destination resource of a method is locked."}

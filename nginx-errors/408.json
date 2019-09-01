@@ -1,1 +1,1 @@
-{"message":"Request Timeout: indicates that the server did not receive a complete request message within the time that it was prepared to wait.","link":"https://tools.ietf.org/html/rfc7231#section-6.5.7","code":"408"}
+{"code":"408","reason":"Request Timeout: indicates that the server did not receive a complete request message within the time that it was prepared to wait."}

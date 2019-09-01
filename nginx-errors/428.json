@@ -1,1 +1,1 @@
-{"message":"Precondition Required: indicates that the origin server requires the request to be conditional.","link":"https://tools.ietf.org/html/rfc6585#section-3","code":"428"}
+{"code":"428","reason":"Precondition Required: indicates that the origin server requires the request to be conditional."}

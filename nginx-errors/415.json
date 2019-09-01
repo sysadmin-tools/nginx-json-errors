@@ -1,1 +1,1 @@
-{"message":"Unsupported Media Type: indicates that the origin server is refusing to service the request because the payload is in a format not supported by the target resource for this method.","link":"https://tools.ietf.org/html/rfc7231#section-6.5.13","code":"415"}
+{"code":"415","reason":"Unsupported Media Type: indicates that the origin server is refusing to service the request because the payload is in a format not supported by the target resource for this method."}

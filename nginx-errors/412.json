@@ -1,1 +1,1 @@
-{"message":"Precondition Failed: indicates that one or more preconditions given in the request header fields evaluated to false when tested on the server.","link":"https://tools.ietf.org/html/rfc7232#section-4.2","code":"412"}
+{"code":"412","reason":"Precondition Failed: indicates that one or more preconditions given in the request header fields evaluated to false when tested on the server."}
