@@ -1,6 +1,7 @@
 squash-*
 env_make
-node_modules
+node_modules/
 .DS_Store
 *.sublime-workspace
 npm-debug.log
+.idea/
