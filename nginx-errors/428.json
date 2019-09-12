@@ -1,1 +1,1 @@
-{"error":{"code":428,"reason":"Precondition Required: indicates that the origin server requires the request to be conditional."}}
+{"error":{"status":428,"description":"Precondition Required: indicates that the origin server requires the request to be conditional."}}

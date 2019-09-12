@@ -1,1 +1,1 @@
-{"error":{"code":401,"reason":"Unauthorized: indicates that the request has not been applied because it lacks valid authentication credentials for the target resource."}}
+{"error":{"status":401,"description":"Unauthorized: indicates that the request has not been applied because it lacks valid authentication credentials for the target resource."}}

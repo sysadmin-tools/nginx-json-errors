@@ -1,1 +1,1 @@
-{"error":{"code":402,"reason":"Payment Required: reserved"}}
+{"error":{"status":402,"description":"Payment Required: reserved"}}

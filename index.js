@@ -20,8 +20,8 @@ rimraf(path.join(nginxFolder, '*'), function(e) {
 	.forEach(function(item) {
 		var e = {
 			error: {
-			    code: item.code * 1, //convert to int
-                reason: item.phrase + ': ' + item.description.slice(1,-1)
+			    status: item.code * 1, //convert to int
+                description: item.phrase + ': ' + item.description.slice(1,-1)
                 //link: item.spec_href,
             }
         };

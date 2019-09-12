@@ -1,1 +1,1 @@
-{"error":{"code":423,"reason":"Locked: means the source or destination resource of a method is locked."}}
+{"error":{"status":423,"description":"Locked: means the source or destination resource of a method is locked."}}

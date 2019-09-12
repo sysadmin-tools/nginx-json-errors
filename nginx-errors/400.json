@@ -1,1 +1,1 @@
-{"error":{"code":400,"reason":"Bad Request: indicates that the server cannot or will not process the request because the received syntax is invalid, nonsensical, or exceeds some limitation on what the server is willing to process."}}
+{"error":{"status":400,"description":"Bad Request: indicates that the server cannot or will not process the request because the received syntax is invalid, nonsensical, or exceeds some limitation on what the server is willing to process."}}

@@ -1,1 +1,1 @@
-{"error":{"code":511,"reason":"Network Authentication Required: indicates that the client needs to authenticate to gain network access."}}
+{"error":{"status":511,"description":"Network Authentication Required: indicates that the client needs to authenticate to gain network access."}}

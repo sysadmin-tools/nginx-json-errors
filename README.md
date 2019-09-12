@@ -4,9 +4,8 @@ Simple solution to have NGINX return errors in JSON format instead of HTML. Heav
 This repo contains one json files per http error, with the following schema:
 ```json
 {
-    "code": "HTTP RESPONSE CODE",
-    "message": "ERROR PHRASE: ERROR DESCRIPTION",
-    "link": "URI FOR THE ERROR SPEC"
+    "status": "HTTP RESPONSE CODE",
+    "description": "ERROR PHRASE: ERROR DESCRIPTION"
 }
 ```
 
