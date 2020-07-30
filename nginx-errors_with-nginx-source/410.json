@@ -1,0 +1,1 @@
+{"error":{"status":410,"description":"Gone: indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent.","error_source":"nginx"}}
